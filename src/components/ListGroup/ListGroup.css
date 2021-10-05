@@ -1,0 +1,17 @@
+.list {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    box-shadow: 1px 1px 7px #8a8282;
+    border-radius: 10px;
+    padding: 1rem;
+    text-indent: 1rem;
+    background: #fff;
+}
+
+
+@media only screen and (max-width: 686px) {
+    .list {
+        margin-top: 10px;
+    }
+}

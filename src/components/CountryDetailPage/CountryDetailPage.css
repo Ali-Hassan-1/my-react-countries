@@ -1,0 +1,40 @@
+.back-btn {
+    border: none;
+    margin: 2rem;
+    border-radius: 7px;
+    padding: .5rem 1.7rem;
+    box-shadow: 1px 1px 7px #8a8282;
+}
+
+.country-detail-page {
+    height: 100vh;
+}
+
+
+.flag {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.other-detail {
+    padding: 3.5rem;
+}
+
+.other-detail h4 {
+    margin-bottom: 30px;
+}
+
+.boundaries button {
+    border: none;
+    border-radius: 7px;
+    padding: .3rem 2rem;
+    box-shadow: 1px 1px 7px #8a8282;
+    margin-top: 10px;
+    margin-left: .3rem;
+}
+
+.back-btn:hover,
+.boundaries button:hover {
+    box-shadow: 2px 3px 7px #8a8282;
+}
